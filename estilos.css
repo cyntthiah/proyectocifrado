@@ -1,19 +1,27 @@
-.div1 {
+.mensaje {
          width: 300px;
          height: 100px;    
-         
-         border: 10px solid blue;
-         box-sizing: border-box;
+        
     }
     
-.div2 {
+.cifrado {
          width: 300px;
          height: 100px;    
          
-         border: 10px solid blue;
-         box-sizing: border-box;
     }  
 body {
     background-color: #ffe6e6;
     
+}
+h1{
+    text-align: center;
+}
+#container{
+    margin: auto;
+    width: 30%;
+}
+textarea{
+    margin: 15px;
+    border: 10px solid blue;
+    box-sizing: border-box;
 }
